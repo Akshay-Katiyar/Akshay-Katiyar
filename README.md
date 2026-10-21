@@ -1,250 +1,159 @@
-<div align="center">
+<!--
+  Akshay Katiyar (Akshay-Katiyar): Systems architect, cross-platform founder and open-source creator.
+  Open-source Claude Code skills, AI agent swarms: Indian statutory law platform (Open Acts), 3D WebGL (UI and UX 1st), and 30+ native applications.
+  GitHub: https://github.com/Akshay-Katiyar
+  Email: 192348432+Akshay-Katiyar@users.noreply.github.com
+-->
 
-  <!-- Hero Banner SVG -->
-  <a href="https://github.com/Akshay-Katiyar">
-    <img src="assets/banner.svg" alt="Akshay Katiyar (Ghost) - Systems Architect & AI Agent Engineer" width="100%">
-  </a>
+<details>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Akshay Katiyar, maker of Open Acts, CaseNova and UI-and-UX-1st: open-source Claude Code skills and agent swarms. Click to light the bonfire." /></a></summary>
+<br />
+<img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
 
-  <br/><br/>
+**Bonfire menu**
 
-  <!-- Status & Architecture Badges -->
-  <p align="center">
-    <a href="https://github.com/Akshay-Katiyar"><img src="https://img.shields.io/badge/System%20Node-0xGHOST-00F0FF?style=for-the-badge&logo=probot&logoColor=white" alt="Node Ghost"></a>
-    <a href="https://github.com/Akshay-Katiyar"><img src="https://img.shields.io/badge/Architecture-Autonomous%20Agent%20Swarms-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="Swarm Intelligence"></a>
-    <a href="https://github.com/Akshay-Katiyar"><img src="https://img.shields.io/badge/Legal%20AI-19%2C849%2B%20Bare%20Acts-3FB950?style=for-the-badge&logo=balance-scale&logoColor=white" alt="Bare Acts"></a>
-    <a href="https://github.com/Akshay-Katiyar"><img src="https://img.shields.io/badge/Shipped%20Apps-30%2B%20Production-FF0080?style=for-the-badge&logo=flutter&logoColor=white" alt="Shipped Apps"></a>
-    <a href="https://github.com/Akshay-Katiyar"><img src="https://img.shields.io/badge/Edge%20API-Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Edge"></a>
-  </p>
+- **Level up**: explore <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>, 19,849+ Bare Acts index and 30+ Flutter production apps
+- **Attune skills**: install <a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a>, <a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a> or <a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a>
+- **Travel**: <a href="https://github.com/Akshay-Katiyar">GitHub Profile</a> or <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">Direct Dispatch</a>
+- **Kindle**: star a repo you use, it keeps the fire going
 
-  <br/>
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Explore Akshay Katiyar on GitHub" /></a>
+</details>
 
-  <h3>⚡ Autonomous Systems Architect • Agentic AI Builder • Cross-Platform Founder</h3>
-  <p align="center">
-    <i>"Architecting deterministic multi-agent swarms, high-throughput legal intelligence platforms, and high-performance cross-platform software that refuses to compromise on speed, aesthetic taste, or precision."</i>
-  </p>
+<p align="center">
+  <b>Akshay Katiyar</b> builds autonomous <b>AI Agent swarms</b>, statutory legal engines and high-performance cross-platform software.<br />
+  Maker of Open Acts, CaseNova, UI-and-UX-1st, and 30+ native applications. Free and MIT licensed.
+</p>
 
-  <p align="center">
-    <a href="#-flagship-ecosystems--suites"><b>Explore Flagships</b></a> •
-    <a href="#-boss-fight-enter-the-fog"><b>Boss Fight (Telemetry)</b></a> •
-    <a href="#-the-engineering-forge--tech-stack"><b>Tech Stack</b></a> •
-    <a href="#-github-telemetry--pulse"><b>Live Pulse</b></a> •
-    <a href="#-faq--architectural-brief"><b>FAQ</b></a> •
-    <a href="#-connect--dispatch"><b>Connect</b></a>
-  </p>
+<details>
+<summary><a name="divider-party"><img src="./assets/divider-party.svg" width="1200" height="120" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></a></summary>
+<br />
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/party-recruit.svg" width="1200" height="320" alt="Training grounds: Agentic swarms, legal intelligence, and high-performance cross-platform engineering." /></a>
 
-</div>
+**Join the party.** Building with Claude Code, Gemini Antigravity, and autonomous agent swarms. Ask questions, share workflows, get help when a skill breaks.
 
----
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Join on GitHub" /></a>
+</details>
 
-### 🔱 Flagship Ecosystems & Suites
+## <a name="h-about"><img src="./assets/h-about.svg" width="31" height="30" alt="" /></a> About Me
+
+Autonomous systems architect and cross-platform engineer. I build free, open-source AI workflows, agent swarms, and high-performance software. Each one is an engineered system: install it, point it at your objective, and it executes with deterministic quality gates.
+
+They cover full statutory legal corpus indexing (19,849+ Bare Acts in Open Acts), generative AI case intelligence (CaseNova), realtime WebGL & Three.js scrollytelling (UI-and-UX-1st), and 30+ production-grade mobile applications. The work traditional consultancies bill tens of thousands for, delivered as high-agency code.
+
+I actively build with **Claude Code**, **Gemini 3.8 Flash / 2.0**, **Antigravity CLI**, and the **claude-seo**, **claude-ads**, and **claude-blog** skill ecosystems.
+
+## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Claude Code Skills: Choose Your Class
+
+Pick the one that sounds like you. Each class comes with its skill.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ Open Acts &amp; CaseNova</h3>
-      <p><b>Autonomous Indian Statutory &amp; Precedent Intelligence</b></p>
-      <p>A mission-critical legal research infrastructure indexing India's entire statutory corpus with sub-millisecond vector and lexical search.</p>
-      <ul>
-        <li><b>19,849+ Bare Acts</b>: Full codification including Bharatiya Nyaya Sanhita (BNS), BNSS, and BSA with cross-sectional mapping.</li>
-        <li><b>Edge Architecture</b>: Cloudflare Worker API resolving statutory citations, bilingual (English/Hindi) neural text, and Supreme Court precedent graphs.</li>
-        <li><b>Offline Engine</b>: Production Flutter mobile client with zero-latency local SQLite reader and full-text search capability.</li>
-        <li><b>AI Case Intelligence</b>: CaseNova automated judicial brief synthesizer and constitutional doctrine auditor.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Corpus-19.8k%2B%20Acts-00F0FF?style=flat-square">
-        <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Cloudflare%20Edge%20%7C%20SQLite-161B22?style=flat-square">
-      </p>
+      <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="600" height="210" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
+      <p><b><a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a></b>: AI SEO for Claude Code: technical audits, schema, E-E-A-T, local SEO and GEO for AI search.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 UI and UX 1st</h3>
-      <p><b>Interactive 3D WebGL &amp; GSAP Scrollytelling</b></p>
-      <p>An anti-slop, Swiss-grade digital showroom designed to break templated conventions through hardware-accelerated creative computing.</p>
-      <ul>
-        <li><b>Realtime WebGL Canvas</b>: Custom Three.js geometry, particle simulation, and physics-driven interaction.</li>
-        <li><b>GSAP Motion Choreography</b>: Frame-perfect ScrollTrigger pinning, scrubbed timelines, and dynamic responsive morphs.</li>
-        <li><b>Anti-Slop Design System</b>: High-contrast typography, calibrated color harmonies, and zero visual bloat.</li>
-        <li><b>Public Showcase</b>: Explore the source and live interactive canvas.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st"><img src="https://img.shields.io/badge/Repository-UI--and--UX--1st-7928CA?style=flat-square&logo=github"></a>
-        <img src="https://img.shields.io/badge/Stack-Three.js%20%7C%20GSAP%20%7C%20Vite%20%7C%20TS-161B22?style=flat-square">
-      </p>
+      <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="600" height="210" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
+      <p><b><a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a></b>: Google Ads and Meta ads audits across 12 ad platforms, with scored reports.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Autonomous Multi-Agent Swarms</h3>
-      <p><b>Deterministic Graph Execution &amp; 7-Gate Contracts</b></p>
-      <p>Industrial multi-agent orchestration frameworks where autonomous agents execute complex coding, legal, and operational objectives.</p>
-      <ul>
-        <li><b>Autonomous Task Decomposition</b>: Dynamic division into Research, Architecture, Implementation, and Independent Audit agents.</li>
-        <li><b>7-Gate Delivery Rubric</b>: Requirements &rarr; Code Verif &rarr; Automated Tests &rarr; Security &rarr; Independent Review &rarr; Integration &rarr; Release.</li>
-        <li><b>MCP Native</b>: Seamless protocol-level integration connecting Claude Code, Gemini 3.8 / 2.0, local tools, and sandboxed runtimes.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Agents-Autonomous%20Swarms-3FB950?style=flat-square">
-        <img src="https://img.shields.io/badge/Framework-Claude%20Code%20%7C%20MCP%20%7C%20Gemini-161B22?style=flat-square">
-      </p>
+      <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="600" height="210" alt="claude-blog, the AI blog writer for Claude Code" /></a>
+      <p><b><a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a></b>: AI blog writer that ranks on Google and gets cited in AI search.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 The Flutter Forge (30+ Shipped Apps)</h3>
-      <p><b>High-Performance Cross-Platform App Ecosystem</b></p>
-      <p>A comprehensive ecosystem of reactive, offline-first mobile applications engineered for fluid 120 FPS performance and utility.</p>
-      <ul>
-        <li><b>FinTech &amp; Productivity</b>: <i>FinTrack</i> (personal capital tracker), <i>MealVault</i>, <i>WeatherSphere</i>, <i>HabitFlow</i>, <i>MindMap</i>.</li>
-        <li><b>Domain Platforms</b>: <i>JusticeTracker</i>, <i>UniRooms</i>, <i>FitLearn</i>, <i>BrainX</i>.</li>
-        <li><b>Media &amp; Developer Engine</b>: Dedicated high-speed converters (Video, Audio, Image, PDF, Code, Document, Ebook), Background Remover, QR Generator, Zip/RAR Opener.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Portfolio-30%2B%20Applications-FF0080?style=flat-square">
-        <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Dart%20%7C%20BSoD%20%7C%20Isolates-161B22?style=flat-square">
-      </p>
+      <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="600" height="210" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
+      <p><b><a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian. Drop in any source, Claude links and files it.</p>
     </td>
   </tr>
 </table>
 
----
+<details>
+<summary><picture><img src="./assets/loot-chest.svg" width="95%" alt="More open-source AI marketing tools: open the chest" /></picture></summary>
+<br />
+<img src="./assets/loot-open.svg" width="1200" height="350" alt="Items found: 9 more open-source tools &amp; systems" />
 
-### ⚔️ Boss Fight: Enter the Fog: Boss Ahead
+- **[UI-and-UX-1st](https://github.com/Akshay-Katiyar/UI-and-UX-1st)**: High-performance interactive 3D WebGL, scrollytelling and design system experience.
+- **[banana-claude](https://github.com/AgriciDaniel/banana-claude)**: AI image generation skill for Claude Code, powered by Gemini.
+- **[compass](https://github.com/AgriciDaniel/compass)**: Run your whole life out of Obsidian. Daily questions, planning, habits, tasks and an AI assistant in the vault.
+- **[Open Acts](https://github.com/Akshay-Katiyar)**: Autonomous Indian Statutory Law & Legal Research Platform (19,849+ Bare Acts, BNS/BNSS/BSA, Cloudflare Edge API).
+- **[CaseNova](https://github.com/Akshay-Katiyar)**: Advanced AI Case Intelligence and Judicial Precedent Analysis Platform.
+- **[The Flutter Forge](https://github.com/Akshay-Katiyar)**: 30+ native applications (FinTrack, MealVault, WeatherSphere, HabitFlow, JusticeTracker, and complete media converter suite).
+- **[claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity)**: Security code review skill for Claude Code. 8 specialist agents, OWASP, CWE Top 25 and MITRE ATT&CK.
+- **[claude-shorts](https://github.com/AgriciDaniel/claude-shorts)**: Turns long videos into Shorts with animated captions, inside Claude Code.
 
-<div align="center">
-  <img src="assets/telemetry.svg" alt="Live System Telemetry" width="100%">
-</div>
+</details>
 
-<br/>
+## <a name="h-boss"><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></a> Boss Fight
 
-```ini
-[ENCOUNTER STATS]
-Boss Name       : Akshay Katiyar (Codename: Ghost)
-Class           : Autonomous Systems Architect & Agentic AI Builder
-Affiliation     : Open-Source AI Marketing & LegalTech Syndicate
-Health Points   : 100 / 100 [Boosted by Caffeine & Deterministic Unit Tests]
-Mana / Tokens   : ∞ Context Window [Dynamic RAG & Contextual Compression]
+<details>
+<summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog: boss ahead" /></picture></summary>
+<br />
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/boss.svg" width="1200" height="470" alt="Boss fight: claude-seo, claude-ads and claude-blog defeat a $10K/month agency retainer" /></a>
 
-[EQUIPPED ABILITIES]
-• "Bare Acts Overdrive"  : Instant retrieval across 19,849+ statutes & new criminal laws
-• "Swarm Protocol"       : Deploys parallel subagents with zero-loss quality gates
-• "Edge Barrier"         : Sub-millisecond Cloudflare Worker endpoints globally routed
-• "120 FPS Scrolly"      : Smooth WebGL shaders & GSAP timelines that never drop frames
+**The $10K/mo Agency Retainer.** Weakness: open-source skills you run yourself. claude-seo, claude-ads and claude-blog do the audits, the ads checks and the posts. MIT licensed.
 
-[BOSS WEAKNESS]
-• Incurable desire to optimize algorithms and refactor boilerplate into elegant abstractions.
-```
+**Want the full build?** High-agency autonomous agent swarms, 7-gate quality delivery contracts, and sub-millisecond Cloudflare edge architectures built together.
 
----
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join Akshay Katiyar on GitHub" /></a>
+</details>
 
-### 🛠️ The Engineering Forge & Tech Stack
+## <a name="h-faq"><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></a> FAQ
 
-<div align="center">
+<details>
+<summary><b>Who is Akshay Katiyar?</b></summary>
+<br />
+An Autonomous Systems Architect and AI Agent Engineer who builds open-source Claude Code skills, legal intelligence engines (Open Acts, CaseNova), and cross-platform apps. GitHub: <a href="https://github.com/Akshay-Katiyar">github.com/Akshay-Katiyar</a>.
+</details>
 
-| Domain | Core Technologies & Protocols |
-| :--- | :--- |
-| **Autonomous AI &amp; Agents** | `Claude Code` • `Gemini 3.8 / 2.0` • `MCP (Model Context Protocol)` • `Agentic Swarms` • `LangChain` • `RAG Pipelines` • `Vector Embeddings` |
-| **Mobile &amp; Cross-Platform** | `Flutter` • `Dart` • `Reactive State` • `BLoC / Riverpod` • `MethodChannels` • `Native Android/iOS Integrations` • `SQLite` |
-| **High-End Frontend &amp; 3D** | `TypeScript` • `Next.js 15` • `React 19` • `Three.js` • `WebGL` • `GSAP ScrollTrigger` • `Tailwind CSS` • `Vite` |
-| **Backend &amp; Cloud Edge** | `Cloudflare Workers / Pages / D1 / KV` • `Node.js` • `Python 3.11+` • `Fastify` • `RESTful APIs` • `Edge Functions` • `Docker` |
-| **Databases &amp; Systems** | `PostgreSQL` • `Supabase` • `SQLite (Local-First)` • `Redis` • `Git` • `GitHub Actions CI/CD` • `FFmpeg` • `PowerShell` |
+<details>
+<summary><b>What is Open Acts?</b></summary>
+<br />
+India's comprehensive Statutory Law & Legal Research Platform covering 19,849+ Bare Acts, the new criminal laws (BNS, BNSS, BSA), Supreme Court Precedents, bilingual Hindi/English full-text search, and a zero-latency offline SQLite reader.
+</details>
 
-<br/>
+<details>
+<summary><b>What are Claude Code skills?</b></summary>
+<br />
+Folders of instructions, scripts and reference files that Claude Code loads when a task needs them. A plugin bundles skills, agents and commands so you can install them with <code>/plugin install</code>.
+</details>
 
-<!-- Tech Badges -->
+<details>
+<summary><b>Are these Claude Code plugins free?</b></summary>
+<br />
+Yes. Every repo here is MIT licensed. Some skills can connect paid data APIs, such as DataForSEO, if you choose to.
+</details>
+
+<details>
+<summary><b>Which AI SEO tool should I start with?</b></summary>
+<br />
+claude-seo for SEO, GEO and AI search. claude-ads for Google Ads, Meta ads and other ad platforms. claude-blog for blog posts. claude-obsidian for a second brain.
+</details>
+
+<details>
+<summary><b>How to rank on Google and in AI search with these skills?</b></summary>
+<br />
+Install claude-seo and run <code>/seo audit</code> on your site. It checks technical SEO, schema, content and AI visibility, then lists what to fix for Google, ChatGPT and Perplexity. claude-blog writes the posts.
+</details>
+
+<details>
+<summary><b>Where can I learn Claude Code?</b></summary>
+<br />
+Follow open-source releases on GitHub, explore the official skill suites, and inspect the layered skill architectures directly in the repositories.
+</details>
+
+## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
+
+<img src="./assets/stack.svg" width="1200" height="430" alt="Tech stack: Claude Code, Codex, Gemini, MCP, Python, Obsidian, Google Ads, Meta Ads, WordPress, n8n, FFmpeg, TypeScript, React, PHP, Bash, YouTube" />
+
+## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-website.svg" width="160" height="52" alt="Akshay Katiyar on GitHub" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-linkedin.svg" width="163" height="52" alt="Akshay Katiyar on LinkedIn" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-youtube.svg" width="162" height="52" alt="Akshay Katiyar on YouTube" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Akshay Katiyar GitHub Community" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Connect with Akshay Katiyar" /></a>
 </p>
-
-</div>
-
----
-
-### 📊 GitHub Telemetry & Pulse
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akshay-Katiyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=8B949E" width="100%" alt="Akshay Katiyar GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Katiyar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=7928CA&fire=FF0080&currStreakLabel=00F0FF" width="100%" alt="Akshay Katiyar GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Katiyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 💡 FAQ & Architectural Brief
-
-<details>
-<summary><b>🔍 1. Who is Akshay Katiyar (Ghost)?</b></summary>
-<br>
-Akshay is an Autonomous Systems Architect, AI Agentic Engineer, and Cross-Platform Founder. With extensive domain depth across legal tech (Open Acts), high-speed edge compute (Cloudflare Workers), 3D creative frontends (Three.js/WebGL), and mobile software (30+ production Flutter apps), he specializes in building systems where speed, reliability, and architectural clarity are non-negotiable.
-</details>
-
-<details>
-<summary><b>⚖️ 2. What is the Open Acts Project?</b></summary>
-<br>
-Open Acts is India's premier statutory law and legal intelligence ecosystem. It integrates all 19,849+ central and state Bare Acts, the new criminal legal framework (Bharatiya Nyaya Sanhita - BNS, Bharatiya Nagarik Suraksha Sanhita - BNSS, Bharatiya Sakshya Adhiniyam - BSA), landmark Supreme Court precedents, and bilingual drafting forms. The system couples an ultra-fast offline SQLite Flutter client with a global Cloudflare Edge API.
-</details>
-
-<details>
-<summary><b>🤖 3. How do the Multi-Agent Swarms Operate?</b></summary>
-<br>
-Instead of single-prompt guessing, tasks are delegated to specialized autonomous agent swarms (Meta-Intelligence, Research, Architecture, Code Synthesis, and Independent Verification). Each agent adheres to strict quality contracts: bounded scope, verified evidence, zero-loss file safety, and multi-gate delivery rubrics.
-</details>
-
-<details>
-<summary><b>📱 4. What philosophy drives the 30+ Flutter applications?</b></summary>
-<br>
-Every app is built with a local-first philosophy: instant cold-boot startup, zero lag, reactive state decoupling, offline reliability, and platform-adaptive UI that feels completely native on iOS, Android, and Desktop alike.
-</details>
-
-<details>
-<summary><b>🤝 5. How can we collaborate or build together?</b></summary>
-<br>
-Whether you're developing high-impact LegalTech products, multi-agent AI workflows, complex cross-platform mobile apps, or hardware-accelerated 3D web interfaces, feel free to dispatch a message or open a discussion!
-</details>
-
----
-
-### 📡 Connect & Dispatch
-
-<div align="center">
-
-  <p align="center">
-    <a href="https://github.com/Akshay-Katiyar">
-      <img src="https://img.shields.io/badge/GitHub-Akshay--Katiyar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    &nbsp;
-    <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">
-      <img src="https://img.shields.io/badge/Email-Dispatch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    &nbsp;
-    <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">
-      <img src="https://img.shields.io/badge/Showcase-UI%20%26%20UX%201st-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Showcase">
-    </a>
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <sub>Crafted with autonomous agent swarms, WebGL precision, and zero-compromise engineering. &copy; 2026 Akshay Katiyar</sub>
-  </p>
-
-</div>
