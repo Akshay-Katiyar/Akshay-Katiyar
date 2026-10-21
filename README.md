@@ -13,7 +13,7 @@
 **Battle menu**
 
 - **Level up**: explore <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>, 19,849+ Bare Acts index and 30+ Flutter production apps
-- **Attune skills**: install <a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a>, <a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a> or <a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a>
+- **Attune skills**: deploy <a href="https://github.com/Akshay-Katiyar">Open Acts</a>, <a href="https://github.com/Akshay-Katiyar">CaseNova</a> or <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>
 - **Travel**: <a href="https://github.com/Akshay-Katiyar">GitHub Profile</a> or <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">Direct Dispatch</a>
 - **Torch**: star a repo you use, it keeps the flame burning
 
@@ -41,48 +41,49 @@ Autonomous systems architect and cross-platform engineer. I build free, open-sou
 
 They cover full statutory legal corpus indexing (19,849+ Bare Acts in Open Acts), generative AI case intelligence (CaseNova), realtime WebGL & Three.js scrollytelling (UI-and-UX-1st), and 30+ production-grade mobile applications. The work traditional consultancies bill tens of thousands for, delivered as high-agency code.
 
-I actively build with **Claude Code**, **Gemini 3.8 Flash / 2.0**, **Antigravity CLI**, and the **claude-seo**, **claude-ads**, and **claude-blog** skill ecosystems.
+I actively build with **Claude Code**, **Gemini 3.8 Flash / 2.0**, **Antigravity CLI**, and autonomous agent swarm ecosystems.
 
-## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Claude Code Skills: Choose Your Class
+## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Choose Your Class: Autonomous Systems & Skills
 
-Pick the one that sounds like you. Each class comes with its skill.
+Pick your discipline. Each class commands a specialized autonomous engine.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="600" height="210" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a></b>: AI SEO for Claude Code: technical audits, schema, E-E-A-T, local SEO and GEO for AI search.</p>
+      <a href="https://github.com/Akshay-Katiyar"><img src="./assets/card-open-acts.svg" width="600" height="210" alt="Open Acts, the Architect class: you index statutory legal corpus. 19,849+ Bare Acts." /></a>
+      <p><b><a href="https://github.com/Akshay-Katiyar">Open Acts</a></b>: Autonomous Indian statutory law corpus &amp; Bare Acts indexing engine: 19,849+ Acts, BNS/BNSS/BSA, and sub-millisecond Cloudflare edge search.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="600" height="210" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a></b>: Google Ads and Meta ads audits across 12 ad platforms, with scored reports.</p>
+      <a href="https://github.com/Akshay-Katiyar"><img src="./assets/card-casenova.svg" width="600" height="210" alt="CaseNova, the Inquisitor class: you analyze judicial precedent." /></a>
+      <p><b><a href="https://github.com/Akshay-Katiyar">CaseNova</a></b>: Advanced AI Case Intelligence and Judicial Precedent Analysis Platform: citation networks, statutory synthesis, and multi-model verification.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="600" height="210" alt="claude-blog, the AI blog writer for Claude Code" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a></b>: AI blog writer that ranks on Google and gets cited in AI search.</p>
+      <a href="https://github.com/Akshay-Katiyar"><img src="./assets/card-flutter-forge.svg" width="600" height="210" alt="The Flutter Forge, the Forgemaster class: you forge native mobile apps. 30+ production applications." /></a>
+      <p><b><a href="https://github.com/Akshay-Katiyar">The Flutter Forge</a></b>: High-performance cross-platform software forge: 30+ production iOS, Android, and desktop apps with reactive state and offline-first persistence.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="600" height="210" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian. Drop in any source, Claude links and files it.</p>
+      <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st"><img src="./assets/card-ui-ux.svg" width="600" height="210" alt="UI-and-UX-1st, the Alchemist class: you build 3D WebGL interfaces." /></a>
+      <p><b><a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a></b>: High-performance interactive 3D WebGL, scrollytelling, Three.js shaders, and anti-slop design system engineering.</p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><picture><img src="./assets/loot-chest.svg" width="95%" alt="More open-source AI marketing tools: open the chest" /></picture></summary>
+<summary><picture><img src="./assets/loot-chest.svg" width="95%" alt="9 production applications &amp; systems: open the chest" /></picture></summary>
 <br />
-<img src="./assets/loot-open.svg" width="1200" height="350" alt="Items found: 9 more open-source tools &amp; systems" />
+<img src="./assets/loot-open.svg" width="1200" height="350" alt="Items found: 9 production applications &amp; systems" />
 
-- **[UI-and-UX-1st](https://github.com/Akshay-Katiyar/UI-and-UX-1st)**: High-performance interactive 3D WebGL, scrollytelling and design system experience.
-- **[banana-claude](https://github.com/AgriciDaniel/banana-claude)**: AI image generation skill for Claude Code, powered by Gemini.
-- **[compass](https://github.com/AgriciDaniel/compass)**: Run your whole life out of Obsidian. Daily questions, planning, habits, tasks and an AI assistant in the vault.
-- **[Open Acts](https://github.com/Akshay-Katiyar)**: Autonomous Indian Statutory Law & Legal Research Platform (19,849+ Bare Acts, BNS/BNSS/BSA, Cloudflare Edge API).
-- **[CaseNova](https://github.com/Akshay-Katiyar)**: Advanced AI Case Intelligence and Judicial Precedent Analysis Platform.
-- **[The Flutter Forge](https://github.com/Akshay-Katiyar)**: 30+ native applications (FinTrack, MealVault, WeatherSphere, HabitFlow, JusticeTracker, and complete media converter suite).
-- **[claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity)**: Security code review skill for Claude Code. 8 specialist agents, OWASP, CWE Top 25 and MITRE ATT&CK.
-- **[claude-shorts](https://github.com/AgriciDaniel/claude-shorts)**: Turns long videos into Shorts with animated captions, inside Claude Code.
+- **[Open Acts Core](https://github.com/Akshay-Katiyar)**: Full corpus of 19,849+ Central and State Bare Acts, indexed with sub-millisecond edge vector search.
+- **[CaseNova Precedent Engine](https://github.com/Akshay-Katiyar)**: Autonomous judicial precedent analyzer and case law intelligence engine.
+- **[UI-and-UX-1st Experience](https://github.com/Akshay-Katiyar/UI-and-UX-1st)**: 60 FPS WebGL 3D scrollytelling, Three.js shaders, and anti-slop design system.
+- **[FinTrack Native](https://github.com/Akshay-Katiyar)**: Production Flutter personal finance tracker with offline-first SQLite and AES encryption.
+- **[MealVault](https://github.com/Akshay-Katiyar)**: Production dietary planning and nutrition tracker with custom barcode scanner and local storage.
+- **[WeatherSphere](https://github.com/Akshay-Katiyar)**: Real-time radar weather client with interactive canvas animations and multi-city telemetry.
+- **[HabitFlow](https://github.com/Akshay-Katiyar)**: Habit tracking engine with streak preservation, heatmap analytics, and local notifications.
+- **[JusticeTracker](https://github.com/Akshay-Katiyar)**: Legal case hearing scheduler and cause-list tracker for Indian courts.
+- **[MediaForge Suite](https://github.com/Akshay-Katiyar)**: High-speed audio/video transcoder and batch converter built with Flutter and FFmpeg.
 
 </details>
 
@@ -91,9 +92,9 @@ Pick the one that sounds like you. Each class comes with its skill.
 <details>
 <summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog: boss ahead" /></picture></summary>
 <br />
-<a href="https://github.com/Akshay-Katiyar"><img src="./assets/boss.svg" width="1200" height="470" alt="Boss fight: claude-seo, claude-ads and claude-blog defeat a $10K/month agency retainer" /></a>
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/boss.svg" width="1200" height="470" alt="Boss fight: Open Acts, CaseNova and Flutter Forge defeat a $10K/month agency retainer" /></a>
 
-**The $10K/mo Agency Retainer.** Weakness: open-source skills you run yourself. claude-seo, claude-ads and claude-blog do the audits, the ads checks and the posts. MIT licensed.
+**The $10K/mo Agency Retainer.** Weakness: autonomous agent swarms and open-source systems you run yourself. Open Acts, CaseNova, and high-performance native software deliver the work traditional consultancies overcharge for. Free and MIT licensed.
 
 **Want the full build?** High-agency autonomous agent swarms, 7-gate quality delivery contracts, and sub-millisecond Cloudflare edge architectures built together.
 
