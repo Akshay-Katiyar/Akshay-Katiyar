@@ -26,13 +26,13 @@
 </p>
 
 <details>
-<summary><a name="divider-party"><img src="./assets/divider-party.svg" width="1200" height="120" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></a></summary>
+<summary><a name="divider-party"><img src="./assets/divider-party.svg" width="1200" height="120" alt="GHOST Swarm Quest: The autonomous party parses raw statutes, resolves precedent deadlock, eliminates UI jank, and conquers legacy monoliths with 30+ native applications. Click to enter the training grounds." /></a></summary>
 <br />
-<a href="https://github.com/Akshay-Katiyar"><img src="./assets/party-recruit.svg" width="1200" height="320" alt="Training grounds: Agentic swarms, legal intelligence, and high-performance cross-platform engineering." /></a>
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/party-recruit.svg" width="1200" height="320" alt="GHOST Training Grounds: Autonomous AI Agent Swarms training on Open Acts statutory engine, CaseNova judicial intelligence, and 30+ native Flutter applications." /></a>
 
-**Join the party.** Building with Claude Code, Gemini Antigravity, and autonomous agent swarms. Ask questions, share workflows, get help when a skill breaks.
+**Enter the Forge.** Architecting autonomous AI agent swarms, statutory legal engines (19,849+ Bare Acts in Open Acts), precedent intelligence (CaseNova), and 30+ high-performance native Flutter apps. Free and MIT licensed.
 
-<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Join on GitHub" /></a>
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Join AI Agent Hub on GitHub" /></a>
 </details>
 
 ## <a name="h-about"><img src="./assets/h-about.svg" width="31" height="30" alt="" /></a> About Me
