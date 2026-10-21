@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D12"/>
+      <stop offset="100%" stop-color="#11161F"/>
+    </linearGradient>
+    <linearGradient id="term-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#00FF88"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .term-mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace; }
+    .t-dim { fill: #6E7681; font-size: 13px; }
+    .t-cyan { fill: #00F0FF; font-size: 13px; font-weight: 700; }
+    .t-purple { fill: #BC8CFF; font-size: 13px; font-weight: 600; }
+    .t-green { fill: #3FB950; font-size: 13px; font-weight: 600; }
+    .t-gold { fill: #D29922; font-size: 13px; font-weight: 600; }
+    .t-white { fill: #F0F6FC; font-size: 13px; font-weight: 500; }
+  </style>
+
+  <rect width="900" height="240" rx="12" fill="url(#term-bg)" stroke="#30363D" stroke-width="1.2"/>
+  
+  <!-- Window Controls -->
+  <g transform="translate(20, 18)">
+    <circle cx="0" cy="0" r="5.5" fill="#FF5F56"/>
+    <circle cx="18" cy="0" r="5.5" fill="#FFBD2E"/>
+    <circle cx="36" cy="0" r="5.5" fill="#27C93F"/>
+    <text x="65" y="4" class="term-mono" fill="#8B949E" font-size="11" font-weight="600">ghost@neural-node: ~ /telemetry --live</text>
+  </g>
+  
+  <line x1="0" y1="36" x2="900" y2="36" stroke="#21262D" stroke-width="1"/>
+  <rect x="0" y="35" width="220" height="2" fill="url(#term-line)"/>
+
+  <!-- Telemetry Content -->
+  <g transform="translate(24, 66)">
+    <text x="0" y="0" class="term-mono t-dim">$</text>
+    <text x="18" y="0" class="term-mono t-cyan">status --class "Autonomous Systems Architect &amp; Agentic AI Builder"</text>
+
+    <!-- Row 1 -->
+    <text x="0" y="28" class="term-mono t-purple">❯ ROLE PROFILE:</text>
+    <text x="170" y="28" class="term-mono t-white">Systems Architect • Flutter Forge Founder • Multi-Agent Engineer</text>
+
+    <!-- Row 2 -->
+    <text x="0" y="52" class="term-mono t-cyan">❯ FLAGSHIP SUITE:</text>
+    <text x="170" y="52" class="term-mono t-white">Open Acts (19,849+ Bare Acts, BNS/BNSS/BSA, Edge API, SC Precedents)</text>
+
+    <!-- Row 3 -->
+    <text x="0" y="76" class="term-mono t-green">❯ QUALITY RUBRIC:</text>
+    <text x="170" y="76" class="term-mono t-white">7 Quality Gates • Zero-Data-Loss Mandate • Deterministic Graph Execution</text>
+
+    <!-- Row 4 -->
+    <text x="0" y="100" class="term-mono t-gold">❯ ACTIVE STACK:</text>
+    <text x="170" y="100" class="term-mono t-white">Claude Code, Gemini 3.8 Flash, Flutter, Dart, TypeScript, WebGL, Cloudflare</text>
+
+    <!-- Row 5 -->
+    <text x="0" y="124" class="term-mono t-dim">❯ CURRENT BUFF:</text>
+    <text x="170" y="124" class="term-mono t-white"><tspan fill="#3FB950">Active</tspan> [Sub-millisecond Edge Latency | 30+ Shipped Apps | Neural Precision]</text>
+
+    <text x="0" y="150" class="term-mono" fill="#00F0FF">❯ SYSTEM READY // AWAITING DISPATCH _</text>
+  </g>
+</svg>
