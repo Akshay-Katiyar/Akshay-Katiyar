@@ -1,18 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="GHOST" shape-rendering="crispEdges">
   <defs>
     <style>
-      @keyframes ghost-bob {
-        0%, 100% { transform: translateY(0px); }
-        50%      { transform: translateY(-3.5px); }
+      @keyframes ghost-sway-bob {
+        0%, 100% { transform: translateY(0px) translateX(0px) rotate(0deg) scale(1, 1); }
+        25%      { transform: translateY(-4.5px) translateX(1px) rotate(3deg) scale(1.03, 0.97); }
+        50%      { transform: translateY(-1.5px) translateX(0px) rotate(-1deg) scale(0.97, 1.03); }
+        75%      { transform: translateY(3.5px) translateX(-1px) rotate(-3deg) scale(1.02, 0.98); }
+      }
+      @keyframes ghost-glow-aura {
+        0%, 100% { filter: drop-shadow(0 0 4px rgba(0, 240, 255, 0.65)) drop-shadow(0 0 8px rgba(0, 240, 255, 0.35)); }
+        50%      { filter: drop-shadow(0 0 7px rgba(0, 240, 255, 0.95)) drop-shadow(0 0 14px rgba(0, 240, 255, 0.60)); }
       }
       @keyframes ghost-blink {
         0%, 90%, 94%, 100% { transform: scaleY(1); }
         92%                { transform: scaleY(0.1); }
       }
       .ghost-float {
-        animation: ghost-bob 2.2s ease-in-out infinite;
+        animation: ghost-sway-bob 2.8s ease-in-out infinite, ghost-glow-aura 3.6s ease-in-out infinite;
         transform-origin: 24px 24px;
-        filter: drop-shadow(0 0 4px rgba(0, 240, 255, 0.70));
       }
       .ghost-eyes {
         animation: ghost-blink 4.2s ease-in-out infinite;
