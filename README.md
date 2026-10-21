@@ -104,45 +104,48 @@ Pick your discipline. Each class commands a specialized autonomous engine.
 ## <a name="h-faq"><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></a> FAQ
 
 <details>
-<summary><b>Who is Akshay Katiyar?</b></summary>
+<summary><b>Who is GHOST (Akshay Katiyar)?</b></summary>
 <br />
-An Autonomous Systems Architect and AI Agent Engineer who builds open-source Claude Code skills, legal intelligence engines (Open Acts, CaseNova), and cross-platform apps. Connect on <a href="https://github.com/Akshay-Katiyar">GitHub</a>, <a href="https://www.linkedin.com/in/axkshay-katiyar">LinkedIn</a>, or watch on <a href="https://www.youtube.com/@LearningHubBox">YouTube</a>.
+<b>GHOST (Akshay Katiyar)</b> is an Autonomous Systems Architect, Legaltech Pioneer, and AI Agent Engineer. He builds autonomous AI agent swarms, statutory legal engines (<a href="https://github.com/Akshay-Katiyar">Open Acts</a>, <a href="https://github.com/Akshay-Katiyar">CaseNova</a>), high-performance 3D WebGL experiences (<a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>), and 30+ native Flutter applications. Connect on <a href="https://github.com/Akshay-Katiyar">GitHub</a>, <a href="https://www.linkedin.com/in/axkshay-katiyar">LinkedIn</a>, or watch on <a href="https://www.youtube.com/@LearningHubBox">YouTube</a>.
 </details>
 
 <details>
 <summary><b>What is Open Acts?</b></summary>
 <br />
-India's comprehensive Statutory Law & Legal Research Platform covering 19,849+ Bare Acts, the new criminal laws (BNS, BNSS, BSA), Supreme Court Precedents, bilingual Hindi/English full-text search, and a zero-latency offline SQLite reader.
+India's comprehensive open-source Statutory Law &amp; Legal Research Platform built by GHOST. It indexes 19,849+ Bare Acts, the new criminal laws (BNS, BNSS, BSA), Supreme Court Precedents, bilingual Hindi/English full-text search, sub-millisecond Cloudflare Edge API, and zero-latency offline SQLite storage. Free and MIT licensed for every citizen and legal practitioner.
 </details>
 
 <details>
-<summary><b>What are Claude Code skills?</b></summary>
+<summary><b>What are GHOST's Autonomous AI Agent Swarms & Skills?</b></summary>
 <br />
-Folders of instructions, scripts and reference files that Claude Code loads when a task needs them. A plugin bundles skills, agents and commands so you can install them with <code>/plugin install</code>.
+Engineered agentic systems designed by GHOST that integrate with Claude Code, Gemini Antigravity, and MCP servers. They execute bounded objectives with multi-agent parallel decomposition, strict 7-gate quality contracts, and deterministic verification. Install a skill, point it at your objective, and it runs autonomously.
 </details>
 
 <details>
-<summary><b>Are these Claude Code plugins free?</b></summary>
+<summary><b>Are GHOST's systems, apps, and plugins free?</b></summary>
 <br />
-Yes. Every repo here is MIT licensed. Some skills can connect paid data APIs, such as DataForSEO, if you choose to.
+Yes, 100% Free and MIT licensed. Every system built by GHOST—including Open Acts, CaseNova, UI-and-UX-1st, and the 30+ native Flutter applications—is completely open-source with zero paywalls, zero vendor lock-in, and full source code available on GitHub.
 </details>
 
 <details>
-<summary><b>Which AI SEO tool should I start with?</b></summary>
+<summary><b>Which GHOST system or class should I start with?</b></summary>
 <br />
-claude-seo for SEO, GEO and AI search. claude-ads for Google Ads, Meta ads and other ad platforms. claude-blog for blog posts. claude-obsidian for a second brain.
+• <b>Open Acts (Architect)</b>: For comprehensive statutory law indexing, 19,849+ Bare Acts, or legal search APIs.<br />
+• <b>CaseNova (Inquisitor)</b>: For AI-powered judicial precedent reasoning, citation verification, and case law intelligence.<br />
+• <b>UI-and-UX-1st (Alchemist)</b>: For high-performance interactive 3D WebGL interfaces, scrollytelling, and Three.js shaders.<br />
+• <b>The Flutter Forge (Forgemaster)</b>: For production-grade, offline-first mobile and desktop applications.
 </details>
 
 <details>
-<summary><b>How to rank on Google and in AI search with these skills?</b></summary>
+<summary><b>How does GHOST ensure zero hallucination in legal & autonomous systems?</b></summary>
 <br />
-Install claude-seo and run <code>/seo audit</code> on your site. It checks technical SEO, schema, content and AI visibility, then lists what to fix for Google, ChatGPT and Perplexity. claude-blog writes the posts.
+Through a multi-model verification loop and statutory grounding: Open Acts indexes exact bare act sections and gazette notifications directly into vector embeddings, while CaseNova cross-references rulings against official Supreme Court citation networks. Autonomous agent swarms enforce independent verification gates before any output is finalized.
 </details>
 
 <details>
-<summary><b>Where can I learn Claude Code?</b></summary>
+<summary><b>Where can I learn and connect with GHOST?</b></summary>
 <br />
-Follow open-source releases on GitHub, explore the official skill suites, and inspect the layered skill architectures directly in the repositories.
+Explore open-source repositories and agent architectures on <a href="https://github.com/Akshay-Katiyar">GitHub</a>, follow professional updates on <a href="https://www.linkedin.com/in/axkshay-katiyar">LinkedIn</a>, and subscribe to tutorials and system walk-throughs on YouTube at <a href="https://www.youtube.com/@LearningHubBox">@LearningHubBox</a>.
 </details>
 
 ## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
