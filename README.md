@@ -6,7 +6,7 @@
 -->
 
 <details>
-<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="GHOST. LV 99 LegalTech &amp; AI Agent Architect. The King on throne with runic sword and swirling ghosts. Click to light the bonfire." /></a></summary>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="GHOST. LV 100 LegalTech &amp; AI Agent Architect. The King on throne with runic sword and swirling ghosts. Click: Fight with human." /></a></summary>
 <br />
 <img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
 
