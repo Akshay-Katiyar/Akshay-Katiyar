@@ -146,14 +146,14 @@ Follow open-source releases on GitHub, explore the official skill suites, and in
 
 ## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
 
-<img src="./assets/stack.svg" width="1200" height="430" alt="Tech stack: Claude Code, Codex, Gemini, MCP, Python, Obsidian, Google Ads, Meta Ads, WordPress, n8n, FFmpeg, TypeScript, React, PHP, Bash, YouTube" />
+<img src="./assets/stack.svg" width="1200" height="570" alt="Tech stack: Claude Code, Codex, Gemini, DeepSeek, GLM, Kimi, K2, MCP, Python, TypeScript, React, Flutter, Cloudflare, Firebase, Obsidian, n8n, FFmpeg, Bash, PHP, WordPress, YouTube, Google Ads, Meta Ads, Git" />
 
 ## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
 <p align="center">
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-website.svg" width="160" height="52" alt="Akshay Katiyar on GitHub" /></a>
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-linkedin.svg" width="163" height="52" alt="Akshay Katiyar on LinkedIn" /></a>
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-youtube.svg" width="162" height="52" alt="Akshay Katiyar on YouTube" /></a>
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Akshay Katiyar GitHub Community" /></a>
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Connect with Akshay Katiyar" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-website.svg" width="155" height="52" alt="Akshay Katiyar on GitHub" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-linkedin.svg" width="165" height="52" alt="Akshay Katiyar on LinkedIn" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-youtube.svg" width="165" height="52" alt="Akshay Katiyar on YouTube" /></a>
+  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="220" height="52" alt="Akshay Katiyar AI Agent Hub" /></a>
+  <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com"><img src="./assets/btn-pro.svg" width="195" height="52" alt="Connect with Akshay Katiyar" /></a>
 </p>

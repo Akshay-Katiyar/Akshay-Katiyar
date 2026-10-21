@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 64" width="225" height="64" role="img" aria-label="Join Pro" shape-rendering="crispEdges"><title>Join Pro</title><defs><style>text{shape-rendering:auto;font-variant-ligatures:none;font-feature-settings:'liga' 0,'calt' 0}@font-face{font-family:'N';src:url(data:font/woff2;base64,d09GMgABAAAAAAKYABAAAAAABVQAAAI9AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgU4cKgZgP1NUQVQqAFwRCAqCIIFoATYCJAMgCxIABCAFTAcgDAcb8AMgLgpjY9bYMYgg3qykvTit7he/3SKI9mM/e++hEjVkQibT8BAheZKqES/JtDRN8EVDIS88ffu93pndT/t+QDEqZLaJDLukrfCtkChzYkRJVUgg2IAD1iQgiQcfJnIgFmiggcD3rhVn/zdwTl/bsEFnMNOIAo3EEU5wotuLWvCW4L/gnZsgo86E3BwUHU8PLaAdoBDCTwi0ylJMx9p7R4lcWDrdJ5IFuYCYXzveJwgBwVJByiklIlkoYmQRSvkZNseX8WdkfrWqZGHMOMuHFKMMLCkl2Naw/Ac/DgWoCGUpy1yInyMPjbsFgLr06FsaUJ70Bva2c+JDsV+Ih4AvKX84H0lzXL369x/VqaRDgHguTzDCECJIoJ/AAF3b2DwVoBAQtb4FClTQzxDoZ3VCpyDll6bboC0HjjNJAfsvmf/yNi/yNA9zXwAABMnrghAEuqEFxmEaoAYISgkl6G6vrXVhGx4TJx5eFZYIvOJoa/DEYphpE9dmPJ0Wj7aqkBunTY6xWctDwDlcOH1wY5OfL95U6LpwcurT1BjPJdPj6pDimfHQ69Kf++n50+an8//bm9cx3mLqislv47RK3n7JzFjw8tvDvErdxyUT38YBGwQCzetPfQtRtV/NlfkOfqQuFoK/P5S6/CpDZQM0UiDwnF55N2DqJgjqzcVitcxQtzA/iTLHb3gCAc2iKRCwVilgSB1CRUJyBNpF/iVLUIJhazac2bXk2IQ1WzZsOtXswK5VBpAYxeFd/PesvgcAAA==) format('woff2');}.l{font:700 24px N;fill:#1a1c2c}.bl{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}.nx{animation:nx 1.4s ease-in-out infinite}@keyframes nx{0%,100%{transform:none}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style></defs><rect x="4" y="4" width="217" height="56" fill="#ffcd75"/><rect x="8" y="0" width="209" height="4" fill="#1a1c2c"/><rect x="8" y="60" width="209" height="4" fill="#1a1c2c"/><rect x="0" y="8" width="4" height="48" fill="#1a1c2c"/><rect x="221" y="8" width="4" height="48" fill="#1a1c2c"/><rect x="4" y="4" width="4" height="4" fill="#1a1c2c"/><rect x="217" y="4" width="4" height="4" fill="#1a1c2c"/><rect x="4" y="56" width="4" height="4" fill="#1a1c2c"/><rect x="217" y="56" width="4" height="4" fill="#1a1c2c"/><g transform="translate(-24 0)"><rect x="40" y="12" width="44" height="40" fill="#1a1c2c"/><g><path d="M70 21h9v3h-9zM70 24h9v3h-9zM70 27h9v3h-9zM70 30h9v3h-9zM70 33h9v3h-9zM70 36h9v3h-9zM70 39h9v3h-9zM70 42h9v3h-9z" fill="#7ED957"/><path d="M58 27h9v3h-9zM58 30h9v3h-9zM58 33h9v3h-9zM58 36h9v3h-9zM58 39h9v3h-9zM58 42h9v3h-9z" fill="#FFC107"/><path d="M46 33h9v3h-9zM46 36h9v3h-9zM46 39h9v3h-9zM46 42h9v3h-9z" fill="#F44336"/></g><text x="92" y="41" class="l">Join Pro</text></g><g class="nx"><g><path d="M183 21h3v3h-3zM183 24h6v3h-6zM186 27h6v3h-6zM189 30h6v3h-6zM186 33h6v3h-6zM183 36h6v3h-6zM183 39h3v3h-3z" fill="#1a1c2c"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 64" width="195" height="64" role="img" aria-label="Dispatch" shape-rendering="crispEdges">
+  <title>Dispatch</title>
+  <defs>
+    <style>
+      text { shape-rendering: auto; font-variant-ligatures: none; font-feature-settings: 'liga' 0, 'calt' 0; }
+      @font-face{font-family:'N';src:url(data:font/woff2;base64,d09GMgABAAAAAALcABAAAAAABdQAAAKAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgggcKgZgP1NUQVQqAFwRCAqCaII1ATYCJAMgCxIABCAFTAcgDAcbdwQonoNN2Z60Xq2jhupITXApzXVM028/omrYeu9jABmdQEgwCmRyoTxCYRQyGodOwTgGolqrsqp7ANUBwAMpBnXAYEntrX8yAlCi/DhhXliG7U+/g2CC1CTp1WgOkr7qFniAHeHwv29pyU1PUFOn6j8lsTFFtlA0hmMMjpUXS8F6te7zfZ7zCm/wElGtnT3DDyLSd+l8BklZVn8LBVOARgiXEBircYjuX7zeRno8vLZAyoKIgjoaX1nAh4JiKZ8K9RA5LPRU2eOo0y4SDqEsh0uZEDfEMGFOmBtNaH6EhigJ0zB1mYUDEywPhAEhAACEtQnp7EVYsod7sHuBxGhn7OpcQ1+nASk4BoBuu6bPOGhPrYdrM0+9OOS/qi3mP8uD88qosNa58/8WnZvyQIF6bs9gjyGET2CTwBY9n5xaE6B5YHcjaNCBTYbvu9ZlmPMpV4VOI8ZNW4sAwerd5C9zTjEQAIAiEQsoPrCEIZzAFYAuQFFCCcHW1BZYm5MDZuhENpIGMUAfEpYALGIRiaiFjEwkhISJxOQwIllUEaELnVGPRFwIuMRi5ipGh5wmLiLUcR16I4SuI5vmwbuxJBIvh8yNI52w1W6NmACzVAXYfbgb/MynpsQf7sIDN8tstVPVo+5RNUVpthvZvZN7Q7rLjt12OAg6ujJdmN0Z8VeAbMHH+RXStdOlNlXYjvUXpqOhwQWBwuHf9rfBxfFfvm3egg9nJQR+/9WkcSK/mm4boE+Bwnv4EwZ1AiMU1DBsb4zVrbdr/APw6UO8NlAwVEKBUjZ1NDGkG6BSiEBgKv1JFl+RFuMmrZszbEWncdMmTVlz1qI5Ywwgq0Nk/E6kurUTAAAA) format('woff2');}
+      .l { font: 700 24px N; fill: #1a1c2c; }
+      .nx { animation: nx 1.4s ease-in-out infinite; }
+      @keyframes nx {
+        0%, 100% { transform: translateX(0); }
+        50%      { transform: translateX(5px); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+      }
+    </style>
+  </defs>
+  <rect x="4" y="4" width="187" height="56" fill="#ffcd75"/>
+  <rect x="6" y="6" width="183" height="3" fill="#ffe08a" opacity="0.6"/>
+  <rect x="8" y="0" width="179" height="4" fill="#1a1c2c"/>
+  <rect x="8" y="60" width="179" height="4" fill="#1a1c2c"/>
+  <rect x="0" y="8" width="4" height="48" fill="#1a1c2c"/>
+  <rect x="191" y="8" width="4" height="48" fill="#1a1c2c"/>
+  <rect x="4" y="4" width="4" height="4" fill="#1a1c2c"/>
+  <rect x="187" y="4" width="4" height="4" fill="#1a1c2c"/>
+  <rect x="4" y="56" width="4" height="4" fill="#1a1c2c"/>
+  <rect x="187" y="56" width="4" height="4" fill="#1a1c2c"/>
+  <g transform="translate(16, 0)">
+    <g transform="translate(0, 0)">
+      
+  <rect x="0" y="16" width="32" height="32" rx="4" fill="#1a1c2c"/>
+  <path d="M 16 19 L 24 19 L 14 31 L 22 31 L 10 45 L 14 35 L 8 35 Z" fill="#ffcd75"/>
+
+    </g>
+    <text x="44" y="41" class="l">Dispatch</text>
+  </g>
+  
+  <g transform="translate(163, 0)">
+    <g class="nx">
+      <path d="M 0 21 h 3 v 3 h -3 z M 0 24 h 6 v 3 h -6 z M 3 27 h 6 v 3 h -6 z M 6 30 h 6 v 3 h -6 z M 3 33 h 6 v 3 h -6 z M 0 36 h 6 v 3 h -6 z M 0 39 h 3 v 3 h -3 z" fill="#1a1c2c"/>
+    </g>
+  </g>
+</svg>
