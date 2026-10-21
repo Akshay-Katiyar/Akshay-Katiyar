@@ -6,7 +6,7 @@
 -->
 
 <details>
-<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Akshay Katiyar, maker of Open Acts, CaseNova and UI-and-UX-1st: open-source Claude Code skills and agent swarms. Click to light the bonfire." /></a></summary>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="GHOST. LV 99 LegalTech &amp; AI Agent Architect. The King on throne with runic sword and swirling ghosts. Click to light the bonfire." /></a></summary>
 <br />
 <img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
 
@@ -17,11 +17,11 @@
 - **Travel**: <a href="https://github.com/Akshay-Katiyar">GitHub Profile</a> or <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">Direct Dispatch</a>
 - **Kindle**: star a repo you use, it keeps the fire going
 
-<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Explore Akshay Katiyar on GitHub" /></a>
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Explore GHOST on GitHub" /></a>
 </details>
 
 <p align="center">
-  <b>Akshay Katiyar</b> builds autonomous <b>AI Agent swarms</b>, statutory legal engines and high-performance cross-platform software.<br />
+  <b>GHOST (Akshay Katiyar)</b> builds autonomous <b>AI Agent swarms</b>, statutory legal engines and high-performance cross-platform software.<br />
   Maker of Open Acts, CaseNova, UI-and-UX-1st, and 30+ native applications. Free and MIT licensed.
 </p>
 
