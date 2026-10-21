@@ -14,7 +14,7 @@
 
 - **Level up**: explore <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>, 19,849+ Bare Acts index and 30+ Flutter production apps
 - **Attune skills**: deploy <a href="https://github.com/Akshay-Katiyar">Open Acts</a>, <a href="https://github.com/Akshay-Katiyar">CaseNova</a> or <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>
-- **Travel**: <a href="https://github.com/Akshay-Katiyar">GitHub Profile</a> or <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">Direct Dispatch</a>
+- **Travel**: <a href="https://github.com/Akshay-Katiyar">GitHub Profile</a>, <a href="https://www.linkedin.com/in/axkshay-katiyar">LinkedIn</a>, <a href="https://www.youtube.com/@LearningHubBox">YouTube</a> or <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">Direct Dispatch</a>
 - **Torch**: star a repo you use, it keeps the flame burning
 
 <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Explore GHOST on GitHub" /></a>
@@ -106,7 +106,7 @@ Pick your discipline. Each class commands a specialized autonomous engine.
 <details>
 <summary><b>Who is Akshay Katiyar?</b></summary>
 <br />
-An Autonomous Systems Architect and AI Agent Engineer who builds open-source Claude Code skills, legal intelligence engines (Open Acts, CaseNova), and cross-platform apps. GitHub: <a href="https://github.com/Akshay-Katiyar">github.com/Akshay-Katiyar</a>.
+An Autonomous Systems Architect and AI Agent Engineer who builds open-source Claude Code skills, legal intelligence engines (Open Acts, CaseNova), and cross-platform apps. Connect on <a href="https://github.com/Akshay-Katiyar">GitHub</a>, <a href="https://www.linkedin.com/in/axkshay-katiyar">LinkedIn</a>, or watch on <a href="https://www.youtube.com/@LearningHubBox">YouTube</a>.
 </details>
 
 <details>
@@ -153,8 +153,8 @@ Follow open-source releases on GitHub, explore the official skill suites, and in
 
 <p align="center">
   <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-website.svg" width="155" height="52" alt="Akshay Katiyar on GitHub" /></a>
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-linkedin.svg" width="165" height="52" alt="Akshay Katiyar on LinkedIn" /></a>
-  <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-youtube.svg" width="165" height="52" alt="Akshay Katiyar on YouTube" /></a>
+  <a href="https://www.linkedin.com/in/axkshay-katiyar"><img src="./assets/btn-linkedin.svg" width="165" height="52" alt="Akshay Katiyar on LinkedIn" /></a>
+  <a href="https://www.youtube.com/@LearningHubBox"><img src="./assets/btn-youtube.svg" width="165" height="52" alt="LearningHubBox on YouTube" /></a>
   <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-hub.svg" width="220" height="52" alt="Akshay Katiyar AI Agent Hub" /></a>
   <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com"><img src="./assets/btn-pro.svg" width="195" height="52" alt="Connect with Akshay Katiyar" /></a>
 </p>
