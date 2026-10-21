@@ -8,14 +8,14 @@
 <details>
 <summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="GHOST. LV 100 LegalTech &amp; AI Agent Architect. The King on throne with runic sword and swirling ghosts. Click: Fight with human." /></a></summary>
 <br />
-<img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
+<img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="FIGHT! Humans encounter the Ghost Swarm." />
 
-**Bonfire menu**
+**Battle menu**
 
 - **Level up**: explore <a href="https://github.com/Akshay-Katiyar/UI-and-UX-1st">UI-and-UX-1st</a>, 19,849+ Bare Acts index and 30+ Flutter production apps
 - **Attune skills**: install <a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a>, <a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a> or <a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a>
 - **Travel**: <a href="https://github.com/Akshay-Katiyar">GitHub Profile</a> or <a href="mailto:192348432+Akshay-Katiyar@users.noreply.github.com">Direct Dispatch</a>
-- **Kindle**: star a repo you use, it keeps the fire going
+- **Torch**: star a repo you use, it keeps the flame burning
 
 <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Explore GHOST on GitHub" /></a>
 </details>
