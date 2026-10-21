@@ -87,16 +87,16 @@ Pick your discipline. Each class commands a specialized autonomous engine.
 
 </details>
 
-## <a name="h-boss"><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></a> Boss Fight
+## <a name="h-boss"><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></a> Boss Fight: The $50K Proprietary Monolith
 
 <details>
-<summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog: boss ahead" /></picture></summary>
+<summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog gate: The $50K Proprietary Monolith awaits" /></picture></summary>
 <br />
-<a href="https://github.com/Akshay-Katiyar"><img src="./assets/boss.svg" width="1200" height="470" alt="Boss fight: Open Acts, CaseNova and Flutter Forge defeat a $10K/month agency retainer" /></a>
+<a href="https://github.com/Akshay-Katiyar"><img src="./assets/boss.svg" width="1200" height="470" alt="Boss fight: Open Acts, CaseNova, and Flutter Forge dismantle The $50K Proprietary Monolith with 19,849+ Bare Acts and 30+ native applications." /></a>
 
-**The $10K/mo Agency Retainer.** Weakness: autonomous agent swarms and open-source systems you run yourself. Open Acts, CaseNova, and high-performance native software deliver the work traditional consultancies overcharge for. Free and MIT licensed.
+**The $50K Proprietary Monolith.** Weakness: autonomous agent swarms and open-source legaltech you run yourself. Open Acts, CaseNova, and high-performance native Flutter software shatter paywalled databases, eliminate enterprise vendor lock-in, and deliver sub-millisecond execution traditional consultancies charge tens of thousands for. 100% Free & MIT licensed.
 
-**Want the full build?** High-agency autonomous agent swarms, 7-gate quality delivery contracts, and sub-millisecond Cloudflare edge architectures built together.
+**Deploy the Swarm.** High-agency autonomous agent swarms, 7-gate quality delivery contracts, and sub-millisecond Cloudflare edge architectures built together.
 
 <a href="https://github.com/Akshay-Katiyar"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join Akshay Katiyar on GitHub" /></a>
 </details>
