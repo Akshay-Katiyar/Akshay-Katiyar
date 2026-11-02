@@ -1,0 +1,80 @@
+# ==============================================================================
+# GitHub Profile Contribution Grid Snake Animation Workflow
+# Repository: Akshay-Katiyar/Akshay-Katiyar
+# Target Branch: output (isolated orphan branch for rendered SVGs)
+# Schedule: Twice daily at 00:00 and 12:00 UTC + Manual Dispatch
+# ==============================================================================
+
+name: Generate Contribution Snake Animation
+
+on:
+  # Scheduled execution: Run every 12 hours (00:00 & 12:00 UTC)
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Manual execution trigger from GitHub Actions console
+  workflow_dispatch:
+
+  # Automatic trigger on updates to this workflow configuration
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+# Enforce strict least-privilege permissions at top-level
+permissions: {}
+
+# Prevent concurrent overlapping runs from competing or causing race conditions
+concurrency:
+  group: snake-animation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    name: Generate & Publish Snake SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # Grant write permissions strictly to contents for the target output branch
+    permissions:
+      contents: write
+
+    steps:
+      # Step 1: Checkout the repository (Fetch depth 1 for maximum speed)
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # Step 2: Generate the contribution snake SVGs
+      - name: Generate Contribution Grid Snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Verify SVG file generation before attempting deployment
+      - name: Verify Generated Assets
+        run: |
+          echo "Verifying generated snake SVGs in dist/ directory..."
+          ls -lh dist/
+          test -s dist/github-contribution-grid-snake.svg || (echo "ERROR: Light snake SVG is missing or empty!" && exit 1)
+          test -s dist/github-contribution-grid-snake-dark.svg || (echo "ERROR: Dark snake SVG is missing or empty!" && exit 1)
+          echo "All SVG assets verified successfully."
+
+      # Step 4: Atomic, zero-conflict deployment to 'output' branch
+      - name: Deploy SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore(snake): update contribution grid snake animation [skip ci]"
+          keep_history: false
+          allow_empty_commit: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
